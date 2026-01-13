@@ -1,0 +1,7 @@
+{
+  "name": "AI Clinical Pharmacist",
+  "description": "An AI-powered clinical decision support tool that analyzes medical documents to detect medication errors, interpret lab results, and provide detailed, guideline-based drug information for healthcare professionals.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
